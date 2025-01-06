@@ -19,7 +19,7 @@
 Here are some of my recent blogs:
 
 - [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)]([https://hashnode.com/](https://hashnode.com/@vishanglad))
-- [![Blog Post 1](https://img.shields.io/badge/Blog_Post_1-FF6347?style=for-the-badge)]([https://link-to-your-blog-1.com](https://blastbazzar.hashnode.dev/blastbazzar))
+- [![Blog Post 1](https://img.shields.io/badge/Blog_Post_1-FF6347?style=for-the-badge)]([(https://blastbazzar.hashnode.dev/blastbazzar)]
 - [![Blog Post 2](https://img.shields.io/badge/Blog_Post_2-FFD700?style=for-the-badge)]([https://link-to-your-blog-2.com](https://vishanglad.hashnode.dev/what-is-internet))
 
 ## 🎨 **Front-End Development**
