@@ -1,3 +1,7 @@
+
+<img src="./assets/background.gif" width="100%">
+
+
 # 🚀 Primary Tech Stack
 
 ## 🧑‍💻 **Programming Languages**
