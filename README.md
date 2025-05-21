@@ -47,6 +47,22 @@ Here are some of my recent blogs:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishangl&layout=compact&theme=dark)
 
 ---
+## 🏆 Achievements
+
+[![Repositories](https://img.shields.io/badge/Public_Repos-20%2B-blue?style=for-the-badge&logo=github)](https://github.com/vishangl?tab=repositories)
+[![Projects](https://img.shields.io/badge/Deployed_Projects-10%2B-success?style=for-the-badge&logo=vercel)](https://jsprojects-bpo.pages.dev/)
+[![Blogs](https://img.shields.io/badge/Blogs-Published-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://vishanglad.hashnode.dev)
+[![Tech Stack](https://img.shields.io/badge/Full_Stack_Developer-Yes-critical?style=for-the-badge&logo=web)](https://github.com/vishangl)
+[![Star Project](https://img.shields.io/badge/Project_BlastBazzar-Ecommerce-orange?style=for-the-badge&logo=fireworks)](https://blastbazzar.hashnode.dev/blastbazzar)
+[![AI Tools](https://img.shields.io/badge/AI_Projects-Handwrite_&_More-9cf?style=for-the-badge&logo=brainly)](https://github.com/vishangl)
+
+- 🚀 Built **BlastBazzar**, a full-stack e-commerce platform for selling firecrackers with integrated cart, checkout, and login systems.
+- 🧠 Created **Handwrite**, a text-to-handwriting converter with personal handwriting scanning and theme customization.
+- 📦 Developed **Inspect URL**, a Node.js-based URL validator and storage system using MongoDB.
+- 🌐 Deployed multiple professional-grade websites using **Cloudflare Pages**, **Vercel**, and **Netlify**.
+- ✍️ Published technical blogs on [Hashnode](https://vishanglad.hashnode.dev), reaching and educating a wider developer community.
+- 💡 Built tools like a **Digital Wedding Card Generator**, **Live Order Tracking**, and **Text to Handwriting Android App**.
+---
 
 ## 🚀 **My Projects**
 
