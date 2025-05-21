@@ -1,32 +1,22 @@
-
 <img src="./assets/background.gif" width="100%">
 
+<h1 align="center">Hi 👋, I'm Vishang Lad</h1>
+<h3 align="center">A passionate Full Stack Developer & Tech Enthusiast</h3>
 
-# 🚀 Primary Tech Stack
+<p align="center">
+  <a href="https://github.com/vishangl"><img src="https://komarev.com/ghpvc/?username=vishangl&label=Profile%20views&color=0e75b6&style=flat" alt="vishangl" /></a>
+</p>
 
-## 🧑‍💻 **Programming Languages**
+---
+
+## 🧑‍💻 Tech Stack
+
+### 🚀 Programming Languages
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-## 🗄️ **Databases**
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-
-## ☁️ **Cloud Hosting**
-[![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://pages.cloudflare.com/)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
-[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
-
-## 📝 **Blog**
-Here are some of my recent blogs:
-
-- [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)]([https://hashnode.com/](https://hashnode.com/@vishanglad))
-- [![Blog Post 1](https://img.shields.io/badge/Blog_Post_1-FF6347?style=for-the-badge)](https://blastbazzar.hashnode.dev/blastbazzar)
-- [![Blog Post 2](https://img.shields.io/badge/Blog_Post_2-FFD700?style=for-the-badge)](https://vishanglad.hashnode.dev/what-is-internet)
-
-## 🎨 **Front-End Development**
+### 🎨 Front-End Development
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -34,39 +24,73 @@ Here are some of my recent blogs:
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)](https://bun.sh/)
+
+### 🗄️ Databases
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+
+### ☁️ Cloud Hosting & Tools
+[![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://pages.cloudflare.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
 ---
 
-## 🌐 **GitHub Status**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishangl&show_icons=true&theme=dark)
-
----
-
-## 📊 **Most Used Languages**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishangl&layout=compact&theme=dark)
-
----
 ## 🏆 Achievements
 
 ### 🎖 GitHub Badges
-
 <p align="left">
-  <img src="https://github.com/vishangl/vishangl/assets/4771a61f-c466-47a2-a412-866104bfb992" width="120px" alt="GitHub Achievements" />
+  <img src="https://github.com/vishangl/vishangl/assets/4771a61f-c466-47a2-a412-866104bfb992" width="100px" alt="GitHub Achievements Badges" />
 </p>
 
-- 🚀 Built **BlastBazzar**, a full-stack e-commerce platform.
-- 🧠 Created **Handwrite**, a custom handwriting AI web app.
-- 📦 Built tools like **Inspect URL**, **Wedding Card Generator**, and more.
+[![Repos](https://img.shields.io/badge/Public_Repos-20%2B-blue?style=for-the-badge&logo=github)](https://github.com/vishangl?tab=repositories)
+[![Blogs](https://img.shields.io/badge/Blogs_on_Hashnode-Active-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://vishanglad.hashnode.dev)
+[![Star Project](https://img.shields.io/badge/BlastBazzar-Ecommerce-orange?style=for-the-badge&logo=fireworks)](https://blastbazzar.hashnode.dev/blastbazzar)
+
+- 🛒 Built **BlastBazzar**, a full-stack firecracker e-commerce site
+- ✍️ Created **Handwrite**, a custom handwriting scanner & text-to-image system
+- 🔎 Developed **Inspect URL**, a MongoDB-based URL validator with dashboard
+- 💌 Engineered **Digital Wedding Card Generator** (multi-language, responsive)
+- 📍 Implemented **Live Order Tracking with Maps**, Zomato-style
+- 📱 Built **Text to Handwriting Android App** for user-custom handwriting
 
 ---
 
-## 🚀 **My Projects**
+## 🚀 Featured Projects
 
-Check out my deployed projects on **Cloudflare Pages**! Click the badge below:
+| Project | Description | Live Demo |
+|--------|-------------|-----------|
+| **BlastBazzar** | E-commerce for firecrackers, full-stack with cart, login | [Live](https://blastbazzar.pages.dev) |
+| **Handwrite** | Text-to-handwriting with personal style AI | [Live](https://handwrite.pages.dev) |
+| **Inspect URL** | URL validation & blacklist-checking tool | [Live](https://inspecturl.pages.dev) |
+| **Wedding Card Generator** | Instant wedding card site with language support | [Live](https://wedcard.pages.dev) |
 
-[![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://pages.cloudflare.com/)
-
-👉 [**Projects**](https://jsprojects-bpo.pages.dev/) 🔗
+🔗 See all: [**My Projects**](https://jsprojects-bpo.pages.dev/)
 
 ---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishangl&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishangl&layout=compact&theme=dark)
+
+---
+
+## ✍️ Blog Highlights
+
+- 📌 [BlastBazzar: Behind the Build](https://blastbazzar.hashnode.dev/blastbazzar)
+- 🌐 [What is the Internet?](https://vishanglad.hashnode.dev/what-is-internet)
+- 💡 More blogs on [Hashnode →](https://vishanglad.hashnode.dev)
+
+---
+
+## 📫 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-vishangl-181717?style=for-the-badge&logo=github)](https://github.com/vishangl)
+[![Hashnode](https://img.shields.io/badge/Hashnode-Blogger-2962FF?style=for-the-badge&logo=hashnode)](https://vishanglad.hashnode.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+
+---
+
