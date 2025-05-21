@@ -90,7 +90,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-vishangl-181717?style=for-the-badge&logo=github)](https://github.com/vishangl)
 [![Hashnode](https://img.shields.io/badge/Hashnode-Blogger-2962FF?style=for-the-badge&logo=hashnode)](https://vishanglad.hashnode.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/vishang-lad-946718266)
 
 ---
 
