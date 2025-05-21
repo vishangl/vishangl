@@ -62,12 +62,12 @@
 
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
-| **BlastBazzar** | E-commerce for firecrackers, full-stack with cart, login | [Live](https://blastbazzar.pages.dev) |
-| **Handwrite** | Text-to-handwriting with personal style AI | [Live](https://handwrite.pages.dev) |
-| **Inspect URL** | URL validation & blacklist-checking tool | [Live](https://inspecturl.pages.dev) |
-| **Wedding Card Generator** | Instant wedding card site with language support | [Live](https://wedcard.pages.dev) |
+| **Portfolio** | My Full Stack Portfolio | [Live]([https://inspecturl.pages.dev](https://www.vishanglad.com/)) |
+| **Handwrite** | Text-to-handwriting with personal style AI | [Live]([https://handwrite.pages.dev](https://handwrite.vishanglad.com/)) |
+| **BlastBazzar** | E-commerce for firecrackers, full-stack with cart, login | [Live](https://blast-bazzar-project.vercel.app/) |
+| **JS Projects** | Some small JS projects | [Live]([https://wedcard.pages.dev](https://j-sprojects-lime.vercel.app/)) |
 
-🔗 See all: [**My Projects**](https://jsprojects-bpo.pages.dev/)
+🔗 See all: [**My Projects**]((https://www.vishanglad.com/))
 
 ---
 
