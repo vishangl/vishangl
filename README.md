@@ -62,12 +62,12 @@
 
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
-| **Portfolio** | My Full Stack Portfolio | [Live](https://www.vishanglad.com/) |
-| **Handwrite** | Text-to-handwriting with personal style AI | [Live](https://handwrite.vishanglad.com/) |
+| **Portfolio** | My Full Stack Portfolio | [Live](https://portfolio-hazel-psi-24.vercel.app/) |
+| **Handwrite** | Text-to-handwriting with personal style AI | [Live](https://hand-write-776z.vercel.app/) |
 | **BlastBazzar** | E-commerce for firecrackers, full-stack with cart, login | [Live](https://blast-bazzar-project.vercel.app/) |
 | **JS Projects** | Some small JS projects | [Live](https://j-sprojects-lime.vercel.app/) |
 
-🔗 See all: [**My Projects**](https://www.vishanglad.com/)
+🔗 See all: [**My Projects**](https://portfolio-hazel-psi-24.vercel.app/)
 
 ---
 
